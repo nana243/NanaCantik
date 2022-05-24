@@ -7,6 +7,7 @@
 // thank you to benni ismael
 // thank you to zerochanBot
 // thank you to fernazer
+// thank you to Mursid S
 // thank you to MikeBot Dev Team
 // thank you to ALL Bot creator
 // and thanks you to who support my Bot
@@ -15,8 +16,8 @@ gc1 = ''
 gc2 = ''
 gc3 = ''
 global.linkGC = ['https://chat.whatsapp.com/LPFQ2X1cnihB0fb8F8cZau', ''] // ganti jadi group lu
-global.owner = ['6289612698583','6288233832771'] // Put your number here //owner eval
-global.kontak = ['6289612698583','6288233832771'] //Ketika ada yang ngetik #owner
+global.owner = ['6281348568830','6288233832771'] // Put your number here //owner eval
+global.kontak = ['6281348568830','6288233832771'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
 global.prems = ['+1 (775) 403-5736','6289505165400','6282287750102'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -48,34 +49,34 @@ xteamkey = 'Dawnfrostkey'
 //xteam        MIMINETBOT
 namaig = 'mursid.st'
 namagithub = 'Botwa021'
-kasihcaption = `Follow Ig @mursid.st`
+kasihcaption = `Donasi Chat Owner ya kak><`
 namakontak1 = '𝙼𝚞𝚛𝚜𝚒𝚍 𝙱𝙾𝚃'
 namakontak2 = '𝙼𝚞𝚛𝚜𝚒𝚍'
 
-//kasihcaption = `Follow Ig @mursid.st`
+//kasihcaption = `Donasi Chat Owner ya kak><`
 
 // Sticker WM
-global.packname = 'мυяѕι∂' // ganti aja
-global.author = 'ʙᴏᴛ' // ganti aja
+global.packname = 'Cantik' // ganti aja
+global.author = 'Nana' // ganti aja
 
 //yyy
-bc = 'мυяѕι∂' //мυяѕι∂ Broadcast
-footer = `\n© _*BOTCAHX*_`
+bc = 'NanaCans' //NanaCans Broadcast
+footer = `\n© _*NanaBotz*_`
 namabot = `WhatsApp Bot`
-namalu = 'MursidGanteng'
+namalu = 'NanaCans'
 
 
 // 
-wait = '_*Wait...*_'
-global.wait = '_*Wait...*_'
+wait = '_*Wait kak...*_'
+global.wait = '_*Wait kak...*_'
 global.rpg = 'Fitur Rpg Dimatikan\nKetik *!enable* *rpg* untuk menggunakan fitur ini!\nKalo Mau main Disini aja\nhttps://chat.whatsapp.com/FnNAbem8o6r4pgLhSdO8Q9'
 global.nsfw = 'Fitur NSFW Dimatikan\nKetik *!enable* *nsfw* untuk menggunakan fitur ini!\n“Katakanlah kepada orang laki-laki yang beriman: Hendaklah mereka menahan pandanganya, dan memelihara kemaluannya; … Katakanlah kepada wanita yang beriman: Hendaklah mereka menahan pandangannya, dan kemaluannya, dan janganlah mereka Menampakkan perhiasannya, kecuali yang (biasa) nampak dari padany,” \n(TQS. Al-Nur [24]: 30-31).'
 global.eror = '_*Server Error kak*_'
 
-global.image = "https://telegra.ph/file/6f1b396c089ed57b85d8b.jpg"
+global.image = "https://telegra.ph/file/aeb64a837227610a0a6e1.jpg"
 
 // Ubah saja SC dari MursidXzy
-global.image = 'https://telegra.ph/file/6f1b396c089ed57b85d8b.jpg'//thumbnail
+global.image = 'https://telegra.ph/file/aeb64a837227610a0a6e1.jpg'//thumbnail
 
 // tingkat kesulitan, semakin tinggi semakin susah
 global.multiplier = 36 // The higher, The harder levelup
