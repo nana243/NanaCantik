@@ -31,18 +31,8 @@ handler.all = async function (m, { isBlocked }) {
     // ketika ada yang invite/kirim link grup di chat pribadi
     if ((m.mtype === 'groupInviteMessage' || m.text.startsWith('https://chat') || m.text.startsWith('Buka tautan ini')) && !m.isBaileys && !m.isGroup) {
         this.send2ButtonLoc(m.chat, logo, `
-╭━━〔 List Sewa〕━✧
-│⬦ *1 Bulan* :      *Rp 20000*
-│⬦ *2 bulan* :      *Rp 40000*
-│⬦ *8 Bulan* :      *Rp 100.000*
-│⬦ *12 Bulan* :      *Rp 150.000*
-┝━━〔Payment • Pulsa〕━✧
-│⬦ Smartfren : 088233832771
-│⬦ Saweria : saweria.co/mursid25
-│⬦ Tri : 089612698583
-┝━━〔Dana • Non Pulsa〕━✧
-│⬦ Dana : 088233832771
-│⬦ Owner : wa.me//6288233832771
+╭━━〔 SEWA BOT 〕━✧
+│⬦ SEWA BOT DLL CHAT OWNER YA KAK
 ╰━━━✧
 Note: Syarat dan Ketentuan mungkin berlaku`.trim(), wm, 'Payment', '#payment', 'Owner', '#owner', m)
 }
@@ -75,7 +65,7 @@ Note: Syarat dan Ketentuan mungkin berlaku`.trim(), wm, 'Payment', '#payment', '
     if (new Date() * 1 - setting.status > 1000) {
         let _uptime = process.uptime() * 1000
         let uptime = clockString(_uptime)
-        await this.setStatus(`I'm 𝙈𝙐𝙍𝙎𝙄𝘿𝘽𝙊𝙏🤖 || ⏰ Aktif selama ${uptime} || 👥 User : ${Object.keys(global.db.data.users).length} User ||🖥️ Mode: ${global.opts['self'] ? 'Private' : setting.groupOnly ? 'Hanya Grup' : 'Publik'}`).catch(_ => _)
+        await this.setStatus(`I'm NANABOTZ🤖 || ⏰ Aktif selama ${uptime} || 👥 User : ${Object.keys(global.db.data.users).length} User ||🖥️ Mode: ${global.opts['self'] ? 'Private' : setting.groupOnly ? 'Hanya Grup' : 'Publik'}`).catch(_ => _)
         setting.status = new Date() * 1
     }
 
