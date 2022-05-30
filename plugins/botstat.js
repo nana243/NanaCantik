@@ -9,12 +9,12 @@ let handler = async (m, { conn }) => {
     let uptime = clockString(_uptime)
 
     let str = `
-┌─〔 _*Info MursidXzy*_ 〕
-│Name : MursidXd
-│Main Owner : Mursid S
+┌─〔 _*Info NanaBotz*_ 〕
+│Name : Queen Nana
+│Main Owner : NanaCans
 │Operated Since: 19 September 2021/2022
 │Language Used: Nodejs (JS)
-│Server: Heroku/VPS
+│Server: Heroku/Panel
 └────
 
 ┌─〔 _*Status Bot*_ 〕
